@@ -14,11 +14,6 @@ This folder contains complete examples demonstrating GitHub Copilot's capabiliti
    - Data visualization helpers
    - Working with datasets
 
-3. **Web Scraper** (`web-scraper.js`)
-   - HTTP requests
-   - HTML parsing concepts
-   - Error handling
-
 ## How to Use These Examples
 
 1. **Read through the code** - Notice how comments guide the implementation

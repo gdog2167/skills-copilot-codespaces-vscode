@@ -18,13 +18,6 @@ Create a contact management system with:
 - Export to JSON/CSV
 - Try: `projects/contact-manager-starter.py`
 
-### 3. Weather CLI
-Build a weather information tool:
-- Fetch weather data from an API
-- Display forecast
-- Support multiple cities
-- Try: `projects/weather-cli-starter.js`
-
 ## How to Use These Projects
 
 1. **Pick a project** that interests you
